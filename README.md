@@ -3,7 +3,7 @@
 ## Description
 English and Korean parallel corpus, 1340,000 groups in total; excluded political, porn, personal information and other sensitive vocabulary; it can be a base corpus for text-based data analysis, used in machine translation and other fields.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/154?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/nlu/154?source=Github
 
 
 # Specifications
